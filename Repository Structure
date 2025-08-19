@@ -1,0 +1,8 @@
+iris-flower-classification/
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+├─ notebook/
+│   └─ iris_classification.ipynb   # your Colab notebook
+└─ docs/
+   └─ DESCRIPTION.md
