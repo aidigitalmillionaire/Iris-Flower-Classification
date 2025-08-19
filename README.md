@@ -110,4 +110,18 @@ This project uses **supervised learning models** to classify Iris flowers into t
 - Demonstrates end-to-end supervised classification
 - Template for small dataset classification tasks
 
+# 🗂️ 4. requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# 🚫 5. .gitignore
+__pycache__/
+*.csv
+*.pkl
+*.joblib
+*.env
+.DS_Store
 
