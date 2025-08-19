@@ -25,3 +25,25 @@ Introductory project for machine learning beginners
 Demonstrates classification pipeline from raw data to evaluation
 
 Template for small dataset classification problems
+
+# 🌸 Iris Flower Classification
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_github_username/iris-flower-classification/blob/main/notebook/iris_classification.ipynb)
+
+This project builds a **machine learning classifier** to predict Iris flower species (*Setosa, Versicolor, Virginica*) based on sepal and petal dimensions.  
+It is fully developed and deployed in **Google Colab** for easy reproducibility.
+
+👉 **Project Description:** See [docs/DESCRIPTION.md](docs/DESCRIPTION.md)
+
+---
+
+## 🚀 Features
+- Clean and annotated Google Colab notebook
+- Uses **Scikit-learn** for model training
+- Models: Logistic Regression, Decision Tree, KNN, and SVM
+- Evaluation with accuracy, confusion matrix, and classification report
+- Easy to run with no local setup required
+
+---
+
+## 📂 Project Structure
