@@ -47,3 +47,38 @@ It is fully developed and deployed in **Google Colab** for easy reproducibility.
 ---
 
 ## 📂 Project Structure
+
+iris-flower-classification/
+
+├─ notebook/
+
+│ └─ iris_classification.ipynb
+
+├─ docs/
+
+│ └─ DESCRIPTION.md
+
+├─ README.md
+
+├─ requirements.txt
+
+└─ .gitignore
+
+
+---
+
+## 📊 Dataset
+We use the **classic Iris dataset** (150 samples, 3 classes) provided by Scikit-learn.  
+No need to download externally — it’s loaded directly via `sklearn.datasets.load_iris`.
+
+---
+
+## ⚡ How to Run
+
+1. Open the notebook in Colab:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e1MLMozaCmEtWbKNNvrXQZ1LgiIc4Ogt?usp=sharing)
+
+2. Install dependencies (if running locally):
+   ```bash
+   pip install -r requirements.txt
+
