@@ -82,3 +82,32 @@ No need to download externally — it’s loaded directly via `sklearn.datasets.
    ```bash
    pip install -r requirements.txt
 
+   
+---
+
+# 📝 3. docs/DESCRIPTION.md
+
+```markdown
+# Project Description — Iris Flower Classification 🌸
+
+The Iris dataset is one of the most famous datasets in pattern recognition and machine learning.  
+This project uses **supervised learning models** to classify Iris flowers into three species:
+
+- Setosa  
+- Versicolor  
+- Virginica  
+
+## Workflow
+1. Load dataset using Scikit-learn
+2. Perform exploratory data analysis (EDA)
+3. Split data into training and testing sets
+4. Train ML models (Logistic Regression, KNN, Decision Tree, SVM)
+5. Evaluate with accuracy, confusion matrix, and classification report
+6. Compare results and choose the best model
+
+## Applications
+- Educational project for ML beginners
+- Demonstrates end-to-end supervised classification
+- Template for small dataset classification tasks
+
+
